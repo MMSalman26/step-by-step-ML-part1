@@ -6,13 +6,13 @@ This repository is dedicated to practicing linear regression and logistic regres
 
 ### Implementation
 
-The linear regression model is implemented using NumPy. Check out the `linear_regression.py` file for details.
+The linear regression model is implemented using NumPy. Check out the `linear_regression.ipynb` file for details.
 
 ## Logistic Regression
 
 ### Implementation
 
-The logistic regression model is implemented using NumPy. Explore the `logistic_regression.py` file for a hands-on experience.
+The logistic regression model is implemented using NumPy. Explore the `logistic_regression.ipynb` file for a hands-on experience.
 
 ## Contributing
 
