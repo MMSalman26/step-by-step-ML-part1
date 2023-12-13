@@ -22,11 +22,10 @@ We welcome contributions and improvements! If you find any issues or have sugges
 
 Check out the progress of our team members:
 
-1. [Mridul](https://github.com/dummy/mridul) ![Mridul's Repository](https://img.shields.io/badge/Repository-Blue)
-2. [Sheyum](https://github.com/dummy/sheyum) ![Sheyum's Repository](https://img.shields.io/badge/Repository-Green)
-3. [Rabby](https://github.com/dummy/rabby) ![Rabby's Repository](https://img.shields.io/badge/Repository-Orange)
-4. [Hasib](https://github.com/dummy/hasib) ![Hasib's Repository](https://img.shields.io/badge/Repository-Red)
-5. [Anik](https://github.com/dummy/anik) ![Anik's Repository](https://img.shields.io/badge/Repository-Purple)
+1. [Mridul](https://github.com/phantom-nue/ML_Journey) ![Mridul's Repository](https://img.shields.io/badge/Repository-Blue)
+2. [Sheyum](https://github.com/CodeParadox007/ML_Algos) ![Sheyum's Repository](https://img.shields.io/badge/Repository-Green)
+3. [Rabby](https://github.com/rabbyece10/ML_Coding) ![Rabby's Repository](https://img.shields.io/badge/Repository-Orange)
+4. [Hasib](https://github.com/mhasib37/ML-repo) ![Hasib's Repository](https://img.shields.io/badge/Repository-Red)
 
 Feel free to check out their repositories and learn together!
 
