@@ -21,12 +21,18 @@ We welcome contributions and improvements! If you find any issues or have sugges
 ## Checkout Other Team Members' Progress
 
 Check out the progress of our team members:
-
-1. <a href="https://github.com/phantom-nue/ML_Journey" style="color: #007acc;">Mridul's Repository</a>
-1. [Mridul](https://github.com/phantom-nue/ML_Journey) ![Mridul's Repository](https://img.shields.io/badge/Repository-Blue)
-1. [Sheyum](https://github.com/CodeParadox007/ML_Algos) ![Sheyum's Repository](https://img.shields.io/badge/Repository-Green)
-1. [Rabby](https://github.com/rabbyece10/ML_Coding) ![Rabby's Repository](https://img.shields.io/badge/Repository-Orange)
-1. [Hasib](https://github.com/mhasib37/ML-repo) ![Hasib's Repository](https://img.shields.io/badge/Repository-Red)
+<div style="margin-bottom:15px">
+1. <a href="https://github.com/phantom-nue/ML_Journey" style="background-color: #4f46e5; color: white; padding: 5px; border-radius: 8px;">Mridul's Repository</a>
+</div>
+<div style="margin-bottom:15px">
+2. <a href="https://github.com/CodeParadox007/ML_Algos" style="background-color: #7c3aed; color: white; padding: 5px; border-radius: 8px;">Sheyum's Repository</a>
+</div>
+<div style="margin-bottom:15px">
+3. <a href="https://github.com/mhasib37/ML-repo" style="background-color: #9333ea; color: white; padding: 5px; border-radius: 8px;">Hasib's Repository</a>
+</div>
+<div style="margin-bottom:15px">
+4. <a href="https://github.com/rabbyece10/ML_Coding" style="background-color: #c026d3; color: white; padding: 5px; border-radius: 8px;">Rabby's Repository</a>
+</div>
 
 Feel free to check out their repositories and learn together!
 
